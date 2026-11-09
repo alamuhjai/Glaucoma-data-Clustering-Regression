@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+*.Rout
+Rplots.pdf
+
+# Exclude dataset and report artifacts
+data/
+report/
+*.pdf
+*.tex
+*.aux
+*.log
+*.out
